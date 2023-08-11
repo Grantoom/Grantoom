@@ -18,10 +18,10 @@ Team lead of [all my projects](https://github.com/Grantoom?tab=overview&from=202
 
 ### Socials
 
-<p align="bottom" style="display: flex;"> 
-<a href="https://github.com/Grantoom" style = "margin-right: 20px;"target="_blank" rel="noreferrer"><img src="https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png" width="80" height= 80" /></a> 
-<a href="https://codepen.io/grantoom" style = "margin-right: 20px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="grantoom" height="80" width="80" /></a>
-<a href="https://instagram.com/grandmaximka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grandmaximka" height="80" width="80" /></a>
+<p align="bottom"> 
+<a href="https://github.com/Grantoom" target="blank"><img align="center" src="https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png" width="80" height= 80"></a> 
+<a href="https://codepen.io/grantoom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="grantoom" height="80" width="80"></a>
+<a href="https://instagram.com/grandmaximka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grandmaximka" height="80" width="80"></a>
 </p>
 
 [![codewars](https://www.codewars.com/users/Grantoom/badges/large)](https://www.codewars.com/users/Grantoom)  
