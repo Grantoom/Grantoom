@@ -9,7 +9,7 @@ I am just a novice web developer who is passionately immersed in the world of ne
 Team lead of [all my projects](https://github.com/Grantoom?tab=overview&from=2023-08-01&to=2023-08-07)
 
 * 🌍  I'm based in Ekaterinburg, Russia
-* ✉️  You can contact me at [wolverin12@ya.ru](mailto:wolveri12@ya.ru) or Telegram: @Grantoom
+* ✉️  You can contact me at [wolverin12@ya.ru](mailto:wolveri12@ya.ru) or Telegram: [@Grantoom](https://t.me/Grantoom)
 * 🚀  I'm currently working for [myself](https://github.com/Grantoom?tab=overview&from=2023-08-01&to=2023-08-07)
 * 🧠  I'm learning Everything!
 * 🤝  I am open to job offers
