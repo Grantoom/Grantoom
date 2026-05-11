@@ -34,14 +34,17 @@ My journey in tech began with frontend development, where I built a solid founda
 ### 🛠 Socials
 
 <div align="center">
-  <a href="https://github.com/Grantoom" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Grantoom" height="75" width="75" align="center"> 
-    <kbd><b>My GitHub</b></kbd>
+  <a href="https://discordapp.com/users/sinlor" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=If%20you%20wanna%20play&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord" />
   </a>
-
-  <a href="https://instagram.com/grandmaximka" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grandmaximka" height="75" width="75" align="center"> 
-    <kbd><b>My Life</b></kbd>
+  <a href="https://www.behance.net/kovalevmax" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=Another%20hobby&color=1769ff&logoColor=white&style=for-the-badge" height="35" alt="behance" />
+  </a>
+  <a href="https://www.instagram.com/grandmaximka" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=My%20life&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram" />
+  </a>
+  <a href="https://t.me/Grantoom" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Communication&color=2CA5E0&logoColor=white&style=for-the-badge" height="35" alt="telegram" />
   </a>
 </div>
 
