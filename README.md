@@ -1,7 +1,7 @@
 Hi 👋 My name is Maxim Kovalev
 =================================
 
-Frontend Developer
+Android Developer
 --------------------------------
 
 I am just a novice web developer who is passionately immersed in the world of new technologies. I love learning and understanding various technical concepts that will help me become a better developer. I look forward to each new lesson and try to apply the knowledge gained in practice.
